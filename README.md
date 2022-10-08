@@ -106,4 +106,7 @@ gantt
     
 
 ```
-## PERT/CPM圖:
+## PERT圖:
+
+## CPM圖:
+![CPM pic](CPM-img.png)
