@@ -128,4 +128,4 @@ gantt
 ![FDD pic](FDD-img.png)
 
 ## 銷售點管理系統 ：
-！[銷售點 pic](銷售點.png)
+![sale pic](銷售點.png)
