@@ -127,7 +127,8 @@ gantt
 ## 功能分解圖-FDD:
 ![FDD pic](FDD-img.png)
 
-## 銷售點管理系統 ：
+## 銷售點管理系統：
 ![sale pic](銷售點.png)
 
-![image](use case1.jpg)
+## 登入APP設置個人資料：
+![image](use_case1.jpg)
