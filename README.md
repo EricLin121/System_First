@@ -131,4 +131,4 @@ gantt
 ![sale pic](銷售點.png)
 
 ## 登入APP設置個人資料：
-![case1 pic](uc1.jpg)
+![image](use_case1.png)
