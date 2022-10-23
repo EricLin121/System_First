@@ -126,3 +126,6 @@ gantt
 
 ## 功能分解圖-FDD:
 ![FDD pic](FDD-img.png)
+
+## 銷售點管理系統 ：
+！[銷售點管理系統 pic](520609B7-0D77-47E6-8C5E-4330C15B28EE.jpeg)
