@@ -130,4 +130,4 @@ gantt
 ## 銷售點管理系統 ：
 ![sale pic](銷售點.png)
 
-![image](use case1.JPG)
+![image](use case1.jpg)
