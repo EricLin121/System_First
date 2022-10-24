@@ -27,7 +27,7 @@
 ![sale pic](銷售點.png)
 
 # 使用案例圖
-![image](use_case圖.png)
+![image](使用案例圖.png)
 ## 使用案例說明1
 ### 登入APP設置個人資料：
 ![image](use_case1.png)
