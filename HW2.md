@@ -26,20 +26,19 @@
 ## 銷售點管理系統：
 ![sale pic](銷售點.png)
 
+# 使用案例圖
+![image](use_case圖.png)
 ## 使用案例說明1
 ### 登入APP設置個人資料：
 ![image](use_case1.png)
-![image](use_case1圖.png)
 
 ## 使用案例說明2
 ### 選擇衣服、結帳、訂購：
 ![image](use_case2.png)
-![image](use_case2圖.png)
 
 ## 使用案例說明3
 ### 後台配送流程：
 ![image](use_case3.png)
-![image](use_case3圖.png)
 
 ---
 ### Figma使用案例動態模擬畫面
